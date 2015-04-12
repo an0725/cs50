@@ -1,2 +1,4 @@
 # cs50
-Problem Sets for Computer Science 50 (edX)
+Problem sets for Computer Science 50 (edX)
+
+start  01/2015
